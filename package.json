@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/cordova-plugin-qrscanner"
+    "url": "git+https://github.com/darylldawn/cordova-plugin-qrscanner.git"
   },
   "keywords": [
     "cordova",
